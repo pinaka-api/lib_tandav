@@ -1,0 +1,13 @@
+{
+  "name": "@pinaka/tandav",
+  "version": "0.0.1",
+  "description": "Handler for tandava api.",
+  "main": "index.ts",
+  "repository": "https://github.com/pinaka-api/lib_tandav",
+  "author": "externref <shiva02939@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "prettier": "^3.0.3"
+  }
+}
